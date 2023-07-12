@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.pdb
