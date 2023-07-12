@@ -19,6 +19,12 @@ namespace ConAppLoops
             Console.WriteLine("value stored in myString is : " + myString + "\n Data Type :" + myString.GetType());
             Console.WriteLine("value stored in  is : " + status + "\n Data Type :" + status.GetType());
             Console.WriteLine("value stored in grade is : " + grade + "\n Data Type :" + grade.GetType());
+            dynamic myDynamic = 45;
+            Console.WriteLine("value stored myDynamic is : " + myDynamic + "\n Data Type :" + myDynamic.GetType());
+            myDynamic = "I am Sam";
+            Console.WriteLine("value stored in myDynamic is : " + myDynamic + "\n Data Type :" + myDynamic.GetType());
+            myDynamic = 'A';
+            Console.WriteLine("value stored in myDynamic is : " + myDynamic + "\n Data Type :" + myDynamic.GetType());
             Console.ReadLine();
 
 
