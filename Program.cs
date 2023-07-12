@@ -11,28 +11,18 @@ namespace ConAppLoops
     {
         static void Main(string[] args)
         {
-           
-            
-                string username;
-                Console.WriteLine("enter the username");
-                username = Console.ReadLine();
-                string Password;
-                Console.WriteLine("enter the password");
-                Password = Console.ReadLine();
-                if (username == "admin1256" && Password == "admin@1256@1256")
-                {
-                    Console.WriteLine("SIGN SUCCESS");
-                }
-                else if (username == "" && Password == "")
-                {
-                    Console.WriteLine("please provide username and password");
-                }
-                else
-                {
-                    Console.WriteLine("invalid user name and password");
-                }
-                Console.ReadKey();
-            
+            var myNum = 12;
+            var myString = "Sravs";
+            var status = true;
+            var grade = 'A';
+            Console.WriteLine("value stored in myNum is : " + myNum + "\n Data Type :" + myNum.GetType());
+            Console.WriteLine("value stored in myString is : " + myString + "\n Data Type :" + myString.GetType());
+            Console.WriteLine("value stored in  is : " + status + "\n Data Type :" + status.GetType());
+            Console.WriteLine("value stored in grade is : " + grade + "\n Data Type :" + grade.GetType());
+            Console.ReadLine();
+
+
+
 
         }
     }
